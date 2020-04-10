@@ -1,1 +1,1 @@
-# kimkong STM32F407 Speeduino7rusEfi compatible CPU Board
+# kimkong STM32F407 Speeduino/rusEfi compatible CPU Board
